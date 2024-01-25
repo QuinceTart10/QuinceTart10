@@ -1,5 +1,3 @@
-Hello...
+Hello!
 
-You found my GitHub profile I guess.
-
-Anyways, I've been doing HTML and CSS lately and I really made this account mainly to contribute to Eryquicc's website.
+I'm a guy who barely knows what he's doing, but people somehow like what I do. I guess I'm good at it ¯\_(ツ)_/¯
