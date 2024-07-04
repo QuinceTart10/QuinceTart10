@@ -10,7 +10,7 @@
 
 ⌨️ Shell: zsh
 
-🛠️ Code editor: VSCodium
+🛠️ Code editor: Visual Studio Code
 
 📄 Markdown editor: Obsidian
 
